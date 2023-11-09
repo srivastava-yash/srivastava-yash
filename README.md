@@ -8,7 +8,7 @@
 - B.S., Computer Science Engineering | National Institute of Technology, Allahabad (_2017-2021_)
 
 ## Work Experience
-**Research Assistant (_Mar 2023 - present_)
+**Research Assistant (_Mar 2023 - present_)**
 - Prof. Yaoqing Yang
     - Working on visualizing high-dimensional loss functions
     - Studying the different phases in model learning and understanding relationships between local and global metrics
