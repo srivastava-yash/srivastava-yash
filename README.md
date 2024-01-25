@@ -1,4 +1,4 @@
-# Software Engineer
+# Software Engineer | Open Source Contributor
 #### Technical Skills
 - Programming Languages: C, C++, Java, Python, JavaScript, Go, MySQL, HTML, CSS
 - Technologies: Node, Express, Spring boot, JUnit, Django, OpenCV, CI/CD, Hbase, Redis, Mongo, Git, Grafana, Lambda Functions, AWS, GCP, Docker
