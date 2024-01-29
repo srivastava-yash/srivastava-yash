@@ -3,6 +3,11 @@
 - Programming Languages: C, C++, Java, Python, JavaScript, Go, MySQL, HTML, CSS
 - Technologies: Node, Express, Spring boot, JUnit, Django, OpenCV, CI/CD, Hbase, Redis, Mongo, Git, Grafana, Lambda Functions, AWS, GCP, Docker
 
+## Open Source Projects
+
+[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cieslarmichal&repo=faker-cxx)](https://github.com/cieslarmichal/faker-cxx)
+
+
 ## Education						       		
 - M.S., Computer Science	| Dartmouth College (_March 2024_)	 			        		
 - B.S., Computer Science Engineering | National Institute of Technology, Allahabad (_2017-2021_)
