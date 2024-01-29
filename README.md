@@ -8,10 +8,6 @@
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cieslarmichal&repo=faker-cxx)](https://github.com/cieslarmichal/faker-cxx)
 
 
-## Education						       		
-- M.S., Computer Science	| Dartmouth College (_March 2024_)	 			        		
-- B.S., Computer Science Engineering | National Institute of Technology, Allahabad (_2017-2021_)
-
 ## Work Experience
 **Research Assistant (_Mar 2023 - present_)**
 - Prof. Yaoqing Yang
@@ -34,11 +30,6 @@
 **Software Development Intern @ RoadToNaukri (_Jun 2020 - Aug 2020_)**
 - Designed face-recognition module recognizing faces from the documents and live video using OpenCV
 - Developed the preprocessing module for the document-engine which improved text extraction by 20%
-
-## Projects
-**CPP-Redis** Developed a miniature Redis server and client in c++ to facilitate the basic Redis commands like PING, GET, SET, TTL etc. on a single-threaded program supporting concurrency. It is able to accept multiple connections and serve them using IO multiplexing to make the requests non-blocking.
-
-**URL shortening microservice** Designed and implemented a URL shortening microservice in Golang that allows users to shorten a URL and also Fetch the original URL for the custom shortened URL. This service uses Redis as the in-memory database to store the URLs. The API is also rate-limited so users get to make certain requests in a given amount of time.
 
 ## Research AND Publication
 S. Pandey, Y. Srivastava, Y. Meena and R. K. Dewang, ”CLOTON: A GAN based approach for Clothing Try-On,” 2021 8th International Conference on SPIN, 2021, pp. 595-601, doi:10.1109/SPIN52536.2021.9565973
