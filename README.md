@@ -3,7 +3,7 @@
 - Programming Languages: C, C++, Java, Python, JavaScript, Go, MySQL, HTML, CSS
 - Technologies: Node, Express, Spring boot, JUnit, Django, OpenCV, CI/CD, Hbase, Redis, Mongo, Git, Grafana, Lambda Functions, AWS, GCP, Docker
 
-## Open Source Projects
+## Open Source Contribution Projects
 
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cieslarmichal&repo=faker-cxx)](https://github.com/cieslarmichal/faker-cxx)
 
