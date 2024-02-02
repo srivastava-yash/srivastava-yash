@@ -6,6 +6,7 @@
 ## Open Source Contribution Projects
 
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cieslarmichal&repo=faker-cxx)](https://github.com/cieslarmichal/faker-cxx)
+[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cieslarmichal&repo=config-cxx)](https://github.com/cieslarmichal/config-cxx)
 
 
 ## Work Experience
